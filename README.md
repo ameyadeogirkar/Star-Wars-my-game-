@@ -1,8 +1,3 @@
-# title:
-  self designing game
+Star Wars : war to apocalypse
 
-# project name
-  STAR WARs
-
-# type
-  single player
+single player
